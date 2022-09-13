@@ -1,15 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Math-Magicians
 
-> Description the project.
+> "Math Magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+- Make simple calculations.
+- Read a random math-related quote.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React. Javascript, HTML, CSS
+- Bootstrap, Webpack, Gitflow
 
 ## Live Demo (if available)
 
@@ -40,17 +41,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Marlyn Mayienga**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Marlyn_Mayienga](https://github.com/Marlyn_Mayienga)
+- Twitter: [@Merl_Mayienga](https://twitter.com/M_ayienga)
+- LinkedIn: [Marlyn_Mayienga](https://linkedin.com/in/Marlyn_Mayienga)
 
 ## 🤝 Contributing
 
