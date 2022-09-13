@@ -18,25 +18,27 @@
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+- To get a local copy up and running follow these simple example steps.
+- Clone the code to your machine, or download a ZIP of all the files directly.
+- To clone, run `git clone git@github.com:Marlyn-Mayienga/math-magicians.git `
+- cd into the project folder `cd math-magicians`
+- run `npm install`
+- run `npm start`
 
 ### Prerequisites
+Use your preferred code editor such as VSCode or Atom
+
 
 ### Setup
-
+Set up linters
 ### Install
-
+`npm i`
 ### Usage
 
 ### Run tests
 
 ### Deployment
-
+`npm start`
 
 
 ## Authors
