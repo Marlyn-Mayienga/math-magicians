@@ -18,7 +18,7 @@ const defCalculatorAnswer = {
 };
 
 // eslint-disable-next-line no-unused-vars
-const Calculator = () => {
+export default function Calculator() {
   const [CalculatorAnswer, setCalculatorAnswer] = useState(defCalculatorAnswer);
   const { total, next, operation } = CalculatorAnswer;
 
@@ -35,9 +35,12 @@ const Calculator = () => {
   };
 
   return (
-    <div className="calc-grid">
-      <div className="output">{isStateNull() ? '0' : displayCalculation()}</div>
-      {
+    <div className="math-introduction">
+      <h2>Math Magicians</h2>
+      <h2>Let&apos;s do some Math</h2>
+      <div className="calc-grid">
+        <div className="output">{isStateNull() ? '0' : displayCalculation()}</div>
+        {
           calcRows.map((calcRows, rowIndex) => (
             <Fragment key={`row ${rowIndex + 1}`}>
               {
@@ -57,9 +60,9 @@ const Calculator = () => {
             </Fragment>
           ))
         }
+      </div>
     </div>
-
   );
-};
+}
 // eslint-disable-next-line no-undef
-export default App;
+// export default App;
