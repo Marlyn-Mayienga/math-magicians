@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2 {
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+
+.home-section {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 0 2rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+.home-section p {
+  line-height: 1.8;
+}

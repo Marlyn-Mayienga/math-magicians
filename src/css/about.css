@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.quote-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 0 2rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+.quote-section p {
+  line-height: 1.8;
+}
+
+.author {
+  font-weight: 200;
+  font-size: 0.9rem;
+}
+
+.quote {
+  font-weight: 600;
+  font-size: 1.5rem;
+}
